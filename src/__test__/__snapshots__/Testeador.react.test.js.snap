@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Haciendo pruebas Primera prueba - toMatchSnapshot 1`] = `
+Array [
+  <h1>
+    SinNombre
+  </h1>,
+  <button
+    onClick={[Function]}
+  >
+    Cambia el nombre
+  </button>,
+  <a
+    className="linky"
+    href="/"
+  >
+    Hola
+  </a>,
+]
+`;
